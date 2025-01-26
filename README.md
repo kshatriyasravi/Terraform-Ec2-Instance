@@ -1,2 +1,4 @@
-# Terraform-Ec2-Instance
-This is the Terraform ec2-instance repo, were we will be creating an ec2-instance with terraform on aws cloud
+THis is the Readmi.md file were we define how this repo is working 
+
+Main Agenta is we will create a vpc and create a instance and access with public subnet (inbound and outbound)
+
